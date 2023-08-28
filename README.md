@@ -5,8 +5,6 @@
 
 #### I'm on my way to become a Fullstack developer! Join me and watch all of my projects.
 
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagamiar15&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagamiar15&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
